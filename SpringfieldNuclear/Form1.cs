@@ -77,7 +77,6 @@ namespace SpringfieldNuclear
 
            
 
-
         }
 
         private void background_Load(object sender, EventArgs e)
